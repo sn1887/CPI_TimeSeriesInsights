@@ -32,10 +32,11 @@ Performance Metrics on the Test Set:
 | LSTM                  | -0.234  | 0.711|  0.596|  0.081|  0.214|   NA  |   NA  |
 
 Best Metrics were achieved by the LSTM model.
+
 ---
 Time Series Graphs of the Best Model:
 
-<img src="images/image.png" alt="Image 1" width="300" height="300"> <img src="images/graph1.png" alt="Image 2" width="300" height="300"> <img src="images/graph2.png" alt="Image 3" width="350" height="300">
+<img src="images/image.png" alt="Image 1" width="275" height="275"> <img src="images/graph1.png" alt="Image 2" width="300" height="300"> <img src="images/graph2.png" alt="Image 3" width="300" height="300">
 
 
 
