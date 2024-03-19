@@ -35,6 +35,9 @@ Best Metrics were achieved by the LSTM model.
 ---
 Time Series Graphs of the Best Model:
 
+<img src="CPI_TimeSeriesInsights/image.png" alt="Image 1" width="100" height="100"> <img src="CPI_TimeSeriesInsights/graph1.png" alt="Image 2" width="100" height="100"> <img src="CPI_TimeSeriesInsights/graph2.png" alt="Image 3" width="100" height="100">
+
+
 
 
 
