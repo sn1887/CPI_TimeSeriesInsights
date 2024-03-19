@@ -19,6 +19,7 @@ The dataset utilized in this project is the Consumer Price Index (CPI) obtained 
 - S/ARIMA, GARCH, TBATS, Exponential Smoothing, META's PROPHET, Neural Nets, and LSTM
 
 ## Results
+
 Performance Metrics on the Test Set:
 | Model Name            |   ME    | RMSE |  MAE  |  MPE  |  MAPE |  MASE |  ACF1 |
 |-----------------------|---------|------|-------|-------|-------|-------|-------|
