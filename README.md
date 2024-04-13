@@ -4,7 +4,7 @@
 
 Time series forecasting has garnered significant attention in recent decades, with researchers striving to statistically and mathematically capture patterns inherent in time series datasets. While existing models outlined in literature have demonstrated proficiency in capturing data patterns, they often struggle with complex datasets or may be ineffective with small data samples.
 
-In this project, the aim is to delve into and compare the performance of state-of-the-art models concerning univariate Consumer Price Index (CPI) datasets sourced from the [US Bureau of Labor Statistics](https://datasource.kapsarc.org/explore/dataset/consumer-price-index4/information/). Through this investigation, we aim to assess the efficacy of various forecasting techniques in handling real-world economic data.
+In this project, the aim is to delve into and compare the performance of state-of-the-art models concerning univariate Consumer Price Index (CPI) datasets sourced from the [US Bureau of Labor Statistics](https://datasource.kapsarc.org/explore/dataset/consumer-price-index4/information/). Through this investigation, we aim to assess the efficacy of various forecasting techniques in handling real-world economic data. Kaggle Notebook for the R codes of the project could be accessed through this [link](https://www.kaggle.com/code/samadnajm/cpi-analysis/notebook).
 
 ## Dataset
 The dataset utilized in this project is the Consumer Price Index (CPI) obtained from the US Bureau of Statistics. It encompasses a time series of economic indicators, crucial for understanding inflation trends within the US economy.
